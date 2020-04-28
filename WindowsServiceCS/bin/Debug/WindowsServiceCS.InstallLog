@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\New folder\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\New folder\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\New folder\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
+Installing service SimpleService...
+Service SimpleService has been successfully installed.
+Creating EventLog source SimpleService in log Application...
+Committing assembly 'D:\New folder\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\New folder\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.InstallLog
+   assemblypath = D:\New folder\WindowsService_SendEmail\WindowsServiceCS\bin\Debug\WindowsServiceCS.exe
