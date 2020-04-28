@@ -2,4 +2,4 @@
 
 - Download the project
 - Change the mail Id and password from which themail will be sent.
-- Make sure to download the project from https://github.com/dipu153/UserManagement and run it as this consists of API which will do the     database operations.
+- Make sure to download the project from https://github.com/dipu153/UserManagement and run it as this consists of API which will do the     database operations.(Change the mailid and password in EmployeesController.cs file in the API)
